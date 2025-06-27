@@ -14,5 +14,5 @@ dependencyResolutionManagement {
         maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     }
 }
-rootProject.name = "OfflineApp"
+rootProject.name = "WeatherAggregator"
 include(":app")

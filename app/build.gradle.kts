@@ -1,7 +1,7 @@
 import com.gasparaitisj.convention.gitBuildType
 import com.gasparaitisj.convention.gitCommitCount
 
-internal val packageName = "com.gasparaitisj.offlineapp"
+internal val packageName = "com.gasparaitisj.weatheraggregator"
 
 plugins {
     alias(libs.plugins.app.android.application)

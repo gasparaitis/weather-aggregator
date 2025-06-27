@@ -1,4 +1,4 @@
-package com.gasparaitisj.offlineapp.ui.theme
+package com.gasparaitisj.weatheraggregator.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
